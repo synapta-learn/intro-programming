@@ -1,0 +1,4 @@
+name: "For Loop Sum"
+type: CODE
+description: "Write a method that calculates the sum of integers from 1 to n using a for-loop."
+sort_order: 1
