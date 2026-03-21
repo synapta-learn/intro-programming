@@ -1,0 +1,6 @@
+name: Is Prime
+type: CODE
+description: Return true if a number is prime
+sort_order: 5
+language: java
+tier: required

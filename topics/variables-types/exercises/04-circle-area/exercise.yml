@@ -1,0 +1,5 @@
+name: Circle Area
+description: Calculate the area of a circle given its radius using Math.PI.
+difficulty: 2
+is_required: true
+sort_order: 4

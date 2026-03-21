@@ -1,0 +1,6 @@
+name: Max of Three
+type: CODE
+description: Return the maximum of three integers
+sort_order: 2
+language: java
+tier: required

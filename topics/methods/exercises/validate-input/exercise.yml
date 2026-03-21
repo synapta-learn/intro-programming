@@ -1,0 +1,6 @@
+name: Validate Input
+type: CODE
+description: Write validation methods — isPositive, isInRange, isNonEmpty
+sort_order: 6
+language: java
+tier: required

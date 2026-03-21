@@ -1,0 +1,6 @@
+name: Can Vote
+type: CODE
+description: Return true if age >= 18 and the person is a citizen
+sort_order: 3
+language: java
+tier: required

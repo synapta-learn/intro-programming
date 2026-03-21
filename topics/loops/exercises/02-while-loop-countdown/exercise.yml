@@ -1,4 +1,0 @@
-name: "While Loop Countdown"
-type: CODE
-description: "Write a method that counts down from n to 1 using a while-loop."
-sort_order: 2

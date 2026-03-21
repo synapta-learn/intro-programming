@@ -1,0 +1,5 @@
+name: Compound Interest
+description: Calculate compound interest using the formula A = P(1 + r/n)^(nt).
+difficulty: 3
+is_required: false
+sort_order: 6

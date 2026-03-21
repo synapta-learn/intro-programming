@@ -1,0 +1,5 @@
+name: Print Your Name
+description: Print your full name on a single line.
+difficulty: 1
+is_required: true
+sort_order: 2

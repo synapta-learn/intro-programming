@@ -1,0 +1,6 @@
+name: Factorial
+type: CODE
+description: Return n! using a for loop
+sort_order: 1
+language: java
+tier: required

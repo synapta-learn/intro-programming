@@ -1,0 +1,6 @@
+name: Multiplication Table
+type: CODE
+description: Return a formatted multiplication table string for a number
+sort_order: 3
+language: java
+tier: required

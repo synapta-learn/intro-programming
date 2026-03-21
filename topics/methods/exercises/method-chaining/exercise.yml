@@ -1,0 +1,6 @@
+name: Method Chaining
+type: CODE
+description: Write a simple calculator class with chainable add/sub/mul methods
+sort_order: 8
+language: java
+tier: depth

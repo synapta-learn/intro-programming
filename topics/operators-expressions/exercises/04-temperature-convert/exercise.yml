@@ -1,0 +1,5 @@
+name: Temperature Conversion
+description: Convert Fahrenheit to Celsius using the formula (F - 32) * 5 / 9.
+difficulty: 2
+is_required: true
+sort_order: 4

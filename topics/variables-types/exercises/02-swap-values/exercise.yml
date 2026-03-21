@@ -1,0 +1,5 @@
+name: Swap Values
+description: Swap two integer variables using a temporary variable.
+difficulty: 2
+is_required: true
+sort_order: 2

@@ -1,0 +1,6 @@
+name: FizzBuzz Single
+type: CODE
+description: Return "Fizz", "Buzz", "FizzBuzz", or the number as a string
+sort_order: 4
+language: java
+tier: required

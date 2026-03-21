@@ -1,0 +1,6 @@
+name: Builder Pattern
+type: CODE
+description: PersonBuilder with chained setters and build method
+sort_order: 6
+language: java
+tier: depth

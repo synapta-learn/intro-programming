@@ -1,0 +1,5 @@
+name: Receipt
+description: Print a formatted receipt with aligned columns using print and println.
+difficulty: 3
+is_required: false
+sort_order: 7

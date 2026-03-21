@@ -1,0 +1,6 @@
+name: Printable Interface
+type: CODE
+description: Define a Printable interface and implement it in Book and Invoice classes
+sort_order: 5
+language: java
+tier: required

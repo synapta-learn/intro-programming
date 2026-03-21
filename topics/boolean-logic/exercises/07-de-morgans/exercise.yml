@@ -1,0 +1,6 @@
+name: De Morgan's Laws
+type: CODE
+description: Simplify boolean expressions using De Morgan's laws
+sort_order: 7
+language: java
+tier: depth

@@ -1,0 +1,5 @@
+name: Expression Evaluator
+description: Evaluate expressions that test your understanding of operator precedence and casting.
+difficulty: 4
+is_required: false
+sort_order: 8

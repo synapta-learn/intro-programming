@@ -1,0 +1,6 @@
+name: Is Positive
+type: CODE
+description: Return true if a number is positive
+sort_order: 1
+language: java
+tier: required

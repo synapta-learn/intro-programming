@@ -1,0 +1,5 @@
+name: Temperature Message
+description: Store a temperature value and format it into a descriptive message.
+difficulty: 1
+is_required: true
+sort_order: 3

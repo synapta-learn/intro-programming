@@ -1,0 +1,6 @@
+name: Power
+type: CODE
+description: Compute base^exponent without Math.pow
+sort_order: 2
+language: java
+tier: required

@@ -1,0 +1,6 @@
+name: Rectangle
+type: CODE
+description: Rectangle class with width, height, area, and perimeter
+sort_order: 2
+language: java
+tier: required

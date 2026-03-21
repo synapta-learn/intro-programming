@@ -1,0 +1,5 @@
+name: Code Comments
+description: Fix a broken program by understanding what is code and what is commented out.
+difficulty: 3
+is_required: false
+sort_order: 8

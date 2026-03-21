@@ -1,0 +1,5 @@
+name: Print vs Println
+description: Use both print() and println() to format output on the same line.
+difficulty: 2
+is_required: true
+sort_order: 4

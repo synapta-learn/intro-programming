@@ -1,0 +1,6 @@
+name: Is Anagram
+type: CODE
+description: Check if two strings are anagrams of each other
+sort_order: 4
+language: java
+tier: required

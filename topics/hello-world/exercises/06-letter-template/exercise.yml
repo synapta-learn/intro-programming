@@ -1,0 +1,5 @@
+name: Letter Template
+description: Print a formatted letter with proper spacing and structure.
+difficulty: 3
+is_required: false
+sort_order: 6

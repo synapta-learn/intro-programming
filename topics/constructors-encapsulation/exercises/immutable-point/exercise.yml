@@ -1,0 +1,6 @@
+name: Immutable Point
+type: CODE
+description: Immutable point with private final fields, constructor, and getters only
+sort_order: 2
+language: java
+tier: required

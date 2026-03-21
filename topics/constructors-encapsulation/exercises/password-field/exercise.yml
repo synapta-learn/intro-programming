@@ -1,0 +1,6 @@
+name: Password Field
+type: CODE
+description: PasswordField class that stores a password but never exposes it directly
+sort_order: 5
+language: java
+tier: required

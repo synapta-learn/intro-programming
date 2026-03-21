@@ -1,0 +1,6 @@
+name: Array Sum
+type: CODE
+description: Return the sum of all elements in an int array
+sort_order: 1
+language: java
+tier: required

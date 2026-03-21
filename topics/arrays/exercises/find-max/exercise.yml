@@ -1,0 +1,6 @@
+name: Find Maximum
+type: CODE
+description: Return the maximum value in an array
+sort_order: 2
+language: java
+tier: required

@@ -1,0 +1,6 @@
+name: Animal Sounds
+type: CODE
+description: Abstract Animal class with Dog, Cat, and Duck subclasses
+sort_order: 2
+language: java
+tier: required

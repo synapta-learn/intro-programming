@@ -1,2 +1,68 @@
-name: "Intro to Programming"
-description: "A beginner-friendly course covering the fundamentals of programming, including variables, control flow, loops, and functions."
+name: Introduction to Programming
+description: >
+  A comprehensive introduction to programming using Java. Starting from absolute zero,
+  this course takes you through the fundamentals of programming — variables, control flow,
+  methods, arrays — all the way to object-oriented programming with classes, inheritance,
+  and polymorphism. Each lecture builds on the previous one, with hands-on exercises
+  that reinforce every concept.
+
+lectures:
+  - title: Hello, World!
+    sort_order: 1
+    topics: [hello-world]
+
+  - title: Variables and Types
+    sort_order: 2
+    topics: [variables-types]
+
+  - title: Operators and Expressions
+    sort_order: 3
+    topics: [operators-expressions]
+
+  - title: Boolean Logic
+    sort_order: 4
+    topics: [boolean-logic]
+
+  - title: Making Decisions with If-Statements
+    sort_order: 5
+    topics: [if-statements]
+
+  - title: While Loops
+    sort_order: 6
+    topics: [while-loops]
+
+  - title: For Loops
+    sort_order: 7
+    topics: [for-loops]
+
+  - title: Arrays
+    sort_order: 8
+    topics: [arrays]
+
+  - title: Methods
+    sort_order: 9
+    topics: [methods]
+
+  - title: Working with Strings
+    sort_order: 10
+    topics: [strings]
+
+  - title: Classes and Objects
+    sort_order: 11
+    topics: [classes-objects]
+
+  - title: Constructors and Encapsulation
+    sort_order: 12
+    topics: [constructors-encapsulation]
+
+  - title: ArrayList and Collections
+    sort_order: 13
+    topics: [arraylist-collections]
+
+  - title: Inheritance and Interfaces
+    sort_order: 14
+    topics: [inheritance-interfaces]
+
+  - title: Polymorphism and Review
+    sort_order: 15
+    topics: [polymorphism-review]

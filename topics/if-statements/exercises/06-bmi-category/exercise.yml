@@ -1,0 +1,6 @@
+name: BMI Category
+type: CODE
+description: Return BMI category string based on BMI value
+sort_order: 6
+language: java
+tier: required

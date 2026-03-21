@@ -1,0 +1,6 @@
+name: Diamond Pattern
+type: CODE
+description: Return a diamond pattern of stars for a given size
+sort_order: 7
+language: java
+tier: depth

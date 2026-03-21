@@ -1,0 +1,6 @@
+name: Temperature Class
+type: CODE
+description: Temperature class with private celsius, constructor, and unit conversions
+sort_order: 1
+language: java
+tier: required

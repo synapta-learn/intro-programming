@@ -1,0 +1,6 @@
+name: Decorator Pattern
+type: CODE
+description: Coffee base class with MilkDecorator and SugarDecorator for price stacking
+sort_order: 8
+language: java
+tier: depth

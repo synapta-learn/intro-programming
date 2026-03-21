@@ -1,0 +1,6 @@
+name: Power of Two
+type: CODE
+description: Return the smallest power of 2 >= n
+sort_order: 4
+language: java
+tier: required

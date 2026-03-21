@@ -1,0 +1,5 @@
+name: Digit Extraction
+description: Extract individual digits from a 3-digit number using / and %.
+difficulty: 3
+is_required: true
+sort_order: 5

@@ -1,0 +1,6 @@
+name: Sum Even Numbers
+type: CODE
+description: Return sum of all even numbers from 1 to n
+sort_order: 2
+language: java
+tier: required

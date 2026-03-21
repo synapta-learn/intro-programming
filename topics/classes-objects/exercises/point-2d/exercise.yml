@@ -1,0 +1,6 @@
+name: Point 2D
+type: CODE
+description: Point2D class with x, y coordinates and distanceTo method
+sort_order: 5
+language: java
+tier: required

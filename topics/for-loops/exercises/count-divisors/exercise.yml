@@ -1,0 +1,6 @@
+name: Count Divisors
+type: CODE
+description: Return the number of divisors of n
+sort_order: 6
+language: java
+tier: required

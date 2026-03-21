@@ -1,0 +1,6 @@
+name: Star Triangle
+type: CODE
+description: Return a right triangle of stars with n rows
+sort_order: 4
+language: java
+tier: required

@@ -1,0 +1,6 @@
+name: Vehicle Fleet
+type: CODE
+description: Vehicle hierarchy with abstract fuelCost and fleet total calculation
+sort_order: 6
+language: java
+tier: depth

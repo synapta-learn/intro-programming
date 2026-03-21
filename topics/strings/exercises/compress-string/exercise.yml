@@ -1,0 +1,6 @@
+name: Compress String
+type: CODE
+description: Perform basic string compression using character counts
+sort_order: 5
+language: java
+tier: required

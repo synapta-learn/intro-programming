@@ -1,0 +1,6 @@
+name: Capitalize Words
+type: CODE
+description: Capitalize the first letter of each word in a string
+sort_order: 3
+language: java
+tier: required

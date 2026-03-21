@@ -1,0 +1,5 @@
+name: Integer Division
+description: Understand the difference between integer division and double division.
+difficulty: 2
+is_required: true
+sort_order: 2

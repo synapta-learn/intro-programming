@@ -1,0 +1,6 @@
+name: Shape Sorter
+type: CODE
+description: Sort an ArrayList of Shapes by area using Comparable
+sort_order: 2
+language: java
+tier: required

@@ -1,0 +1,6 @@
+name: Rotate Array
+type: CODE
+description: Rotate array elements k positions to the right
+sort_order: 8
+language: java
+tier: depth

@@ -1,0 +1,6 @@
+name: Dynamic List
+type: CODE
+description: Create an ArrayList, add and remove elements, and convert to an array
+sort_order: 1
+language: java
+tier: required

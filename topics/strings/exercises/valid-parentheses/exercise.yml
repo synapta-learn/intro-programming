@@ -1,0 +1,6 @@
+name: Valid Parentheses
+type: CODE
+description: Check if parentheses in a string are balanced
+sort_order: 8
+language: java
+tier: depth

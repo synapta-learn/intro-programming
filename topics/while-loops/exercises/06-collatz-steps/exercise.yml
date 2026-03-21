@@ -1,0 +1,6 @@
+name: Collatz Steps
+type: CODE
+description: Count steps to reach 1 in the Collatz sequence
+sort_order: 6
+language: java
+tier: required

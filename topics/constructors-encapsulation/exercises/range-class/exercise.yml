@@ -1,0 +1,6 @@
+name: Range Class
+type: CODE
+description: Range class with min/max, constructor ensures min <= max, contains and overlaps
+sort_order: 4
+language: java
+tier: required

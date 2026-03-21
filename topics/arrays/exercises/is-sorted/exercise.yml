@@ -1,0 +1,6 @@
+name: Is Sorted
+type: CODE
+description: Return true if array is sorted in ascending order
+sort_order: 5
+language: java
+tier: required

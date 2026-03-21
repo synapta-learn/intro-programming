@@ -1,0 +1,5 @@
+name: Name Greeting
+description: Concatenate String variables to build a personalized greeting.
+difficulty: 2
+is_required: true
+sort_order: 5

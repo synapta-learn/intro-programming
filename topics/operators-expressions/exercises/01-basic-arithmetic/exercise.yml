@@ -1,0 +1,5 @@
+name: Basic Arithmetic
+description: Compute the sum, difference, product, and quotient of two integers.
+difficulty: 1
+is_required: true
+sort_order: 1

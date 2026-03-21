@@ -1,0 +1,6 @@
+name: Counter
+type: CODE
+description: Create a Counter class with increment, decrement, and getCount
+sort_order: 1
+language: java
+tier: required

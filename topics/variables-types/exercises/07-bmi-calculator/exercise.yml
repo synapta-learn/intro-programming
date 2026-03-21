@@ -1,0 +1,5 @@
+name: BMI Calculator
+description: Calculate Body Mass Index from height and weight variables.
+difficulty: 3
+is_required: false
+sort_order: 7

@@ -1,0 +1,6 @@
+name: Mini Project
+type: CODE
+description: Student grade tracker with polymorphic GPA calculation and sorted display
+sort_order: 5
+language: java
+tier: required

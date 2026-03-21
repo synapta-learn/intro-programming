@@ -1,0 +1,6 @@
+name: Count Vowels
+type: CODE
+description: Count the number of vowels in a string (case-insensitive)
+sort_order: 1
+language: java
+tier: required

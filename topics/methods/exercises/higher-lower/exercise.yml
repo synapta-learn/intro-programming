@@ -1,0 +1,6 @@
+name: Higher Lower
+type: CODE
+description: Implement a higher/lower number guessing game using methods
+sort_order: 9
+language: java
+tier: depth

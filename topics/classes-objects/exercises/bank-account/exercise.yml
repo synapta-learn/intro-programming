@@ -1,0 +1,6 @@
+name: Bank Account
+type: CODE
+description: BankAccount class with deposit, withdraw, and overdraft prevention
+sort_order: 3
+language: java
+tier: required

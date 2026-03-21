@@ -1,0 +1,6 @@
+name: Day Type
+type: CODE
+description: Return "Weekday" or "Weekend" using switch
+sort_order: 5
+language: java
+tier: required

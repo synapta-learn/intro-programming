@@ -1,0 +1,6 @@
+name: Inventory Item
+type: CODE
+description: InventoryItem with quantity tracking, restock, and sell
+sort_order: 8
+language: java
+tier: depth

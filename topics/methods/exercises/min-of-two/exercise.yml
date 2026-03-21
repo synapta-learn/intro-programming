@@ -1,0 +1,6 @@
+name: Min of Two
+type: CODE
+description: Write an overloaded min() method for int, double, and String (by length)
+sort_order: 1
+language: java
+tier: required

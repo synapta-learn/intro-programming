@@ -1,0 +1,5 @@
+name: Declare Variables
+description: Declare and print variables of each basic type.
+difficulty: 1
+is_required: true
+sort_order: 1

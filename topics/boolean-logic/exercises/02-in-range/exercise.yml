@@ -1,0 +1,6 @@
+name: In Range
+type: CODE
+description: Return true if a number is between 1 and 100 (inclusive)
+sort_order: 2
+language: java
+tier: required

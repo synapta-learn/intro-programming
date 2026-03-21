@@ -1,0 +1,6 @@
+name: Frequency Map
+type: CODE
+description: Count occurrences and find the most common element using parallel ArrayLists
+sort_order: 8
+language: java
+tier: depth

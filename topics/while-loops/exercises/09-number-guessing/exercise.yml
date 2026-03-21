@@ -1,0 +1,6 @@
+name: Number Guessing
+type: CODE
+description: Simulate a binary search guessing game
+sort_order: 9
+language: java
+tier: depth

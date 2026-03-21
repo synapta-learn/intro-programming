@@ -1,0 +1,6 @@
+name: Digit Count
+type: CODE
+description: Return how many digits a positive integer has
+sort_order: 3
+language: java
+tier: required

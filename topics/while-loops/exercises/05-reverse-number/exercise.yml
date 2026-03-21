@@ -1,0 +1,6 @@
+name: Reverse Number
+type: CODE
+description: Reverse the digits of a positive integer
+sort_order: 5
+language: java
+tier: required

@@ -1,0 +1,5 @@
+name: Type Sizes
+description: Explore the range of int using Integer.MIN_VALUE and MAX_VALUE.
+difficulty: 2
+is_required: true
+sort_order: 6

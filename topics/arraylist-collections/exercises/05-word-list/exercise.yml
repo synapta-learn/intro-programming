@@ -1,0 +1,6 @@
+name: Word List
+type: CODE
+description: Store words with add, search, and sorted retrieval operations
+sort_order: 5
+language: java
+tier: required

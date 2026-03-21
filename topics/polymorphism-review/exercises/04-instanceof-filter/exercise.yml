@@ -1,0 +1,6 @@
+name: Instanceof Filter
+type: CODE
+description: Filter a mixed ArrayList of Shapes to find only Circles and compute total area
+sort_order: 4
+language: java
+tier: required

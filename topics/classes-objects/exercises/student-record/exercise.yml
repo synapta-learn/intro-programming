@@ -1,0 +1,6 @@
+name: Student Record
+type: CODE
+description: Student class with name, grades array, and average grade calculation
+sort_order: 4
+language: java
+tier: required

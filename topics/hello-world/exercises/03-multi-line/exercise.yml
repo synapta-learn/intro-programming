@@ -1,0 +1,5 @@
+name: Multi-Line Output
+description: Print a 3-line message using multiple println statements.
+difficulty: 1
+is_required: true
+sort_order: 3

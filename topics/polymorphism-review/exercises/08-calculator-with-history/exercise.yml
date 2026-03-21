@@ -1,0 +1,6 @@
+name: Calculator with History
+type: CODE
+description: Calculator that records operations as Command objects and supports undo
+sort_order: 8
+language: java
+tier: depth

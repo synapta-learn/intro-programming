@@ -1,0 +1,6 @@
+name: Sum to N
+type: CODE
+description: Return the sum of 1 to n
+sort_order: 2
+language: java
+tier: required

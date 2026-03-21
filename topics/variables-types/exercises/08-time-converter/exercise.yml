@@ -1,0 +1,5 @@
+name: Time Converter
+description: Convert a total number of seconds into hours, minutes, and seconds.
+difficulty: 3
+is_required: false
+sort_order: 8

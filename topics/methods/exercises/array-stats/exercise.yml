@@ -1,0 +1,6 @@
+name: Array Stats
+type: CODE
+description: Write min(), max(), and average() methods for int arrays
+sort_order: 4
+language: java
+tier: required

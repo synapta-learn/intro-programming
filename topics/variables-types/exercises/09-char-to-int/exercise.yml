@@ -1,0 +1,5 @@
+name: Char to Int
+description: Explore how char values relate to integer ASCII codes.
+difficulty: 3
+is_required: false
+sort_order: 9

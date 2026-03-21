@@ -1,0 +1,5 @@
+name: ASCII Art
+description: Print a simple ASCII art rectangle using characters.
+difficulty: 2
+is_required: true
+sort_order: 5
