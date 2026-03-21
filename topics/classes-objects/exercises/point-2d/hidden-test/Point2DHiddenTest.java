@@ -1,0 +1,32 @@
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.*;
+
+public class Point2DHiddenTest {
+
+    @Test
+    void originDistanceToOrigin() {
+        Point2D p = new Point2D();
+        p.x = 0.0;
+        p.y = 0.0;
+        assertEquals(0.0, p.distanceToOrigin(), 0.001);
+    }
+
+    @Test
+    void negativeCoordinates() {
+        Point2D p1 = new Point2D();
+        p1.x = -3.0;
+        p1.y = -4.0;
+        assertEquals(5.0, p1.distanceToOrigin(), 0.001);
+    }
+
+    @Test
+    void distanceIsSymmetric() {
+        Point2D p1 = new Point2D();
+        p1.x = 1.0;
+        p1.y = 0.0;
+        Point2D p2 = new Point2D();
+        p2.x = 4.0;
+        p2.y = 0.0;
+        assertEquals(p1.distanceTo(p2), p2.distanceTo(p1), 0.001);
+    }
+}
